@@ -23,4 +23,4 @@ Public cible : les 7-9 ans = les premiers rendez-vous chez le dentiste.
 
 ## Projets existants dans l'éducation à la santé
 Sourire pour tous - http://www.sourirepourtous.be -
---> Projet de la fondation dentaire, il y a tout ce qu'il faut comme matière pour créer le site de Tooty. 
+--> Projet de la fondation dentaire, il y a tout ce qu'il faut comme matière pour créer le site de Toothy. 
