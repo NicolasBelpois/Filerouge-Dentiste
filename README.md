@@ -1,33 +1,64 @@
-# Filrouge-Dentitste
+# Filrouge-Dentiste
 
-###Projet: 
+### Projet: 
 
-*Toothy vous accompagne*
+*Toothy vous apprend en s'amusant*
 
-###But: 
+Le site sera d'abord une page "coming soon" avant le lancement officiel du jeu, cette page permettra elle même de récupérer les adresses mails afin d'inviter les enfants à venir jouer dès que le jeu sera en ligne. 
 
-Site web regroupant les informations et explications destinées aux enfants afin de les rassurer avant un rendez-vous chez le dentiste.
+##### Ensuite
 
-Suite à la journée de la dent en date du 20 mars, notre client, travaillant au sein d'une mutuelle a entreprit de créer ce projet dentaire à destination des enfants. 
+Site multipage avec un jeu ludique pour la pédagogie dentaire. 
+(Jeu a créer soi-même ou récupérer d'autres sources (voir la doc))
 
-Nos enfants ressentent tous une certaine appréhension a l'idée d'un rendez-vous chez le dentiste. Avec cette plateforme, nous pourrons aisément les rassurer. 
+Le site doit permettre a l'enfant de créer son compte avec une adresse mail valide. 
+L'enfant doit pouvoir mémoriser son score maximal, partager son score avec ses amis et inviter ceux-ci à jouer avec lui.
 
-###Notre client:
+Le site reprendra une page avec les meilleurs scores récupérés dans une base de donnée.
+
+Le site annoncera d'autres jeux à venir sur une autre page.
+
+
+### Notre client:
 
 Chargé de communication au sein d'une mutuelle. 
 
-Il est le référant principal pour nous fournir toutes les informations nécessaires. 
+Le client ne fera pas de mise à jour du site lui-même après conception.
 
-###Public-cible:
+### Public-cible:
 
-Le site est destiné aux enfants et leurs parents. 
+Le site est destiné aux enfants. 
+Le site doit disposé d'une réglementation officielle vu qu'on utilise une adresse mail des enfants.
 
-###Objectif:
+### Objectif:
 
-+ Sensibiliser sur l'hygiène dentaire
-+ Prévenir sur les possibilités d'offres de la mutuelle
-+ Fournir un compagnon aux enfants 
-+ Informer le public 
++ Sensibiliser sur l'hygiène dentaire de façon ludique
++ Fournir un compagnon aux enfants sur base de la mascotte Toothy
+
+### Langages:
+
+Au choix .... 
+
+### Charte graphique:
+
+Pas à disposition du client (voir doc)
+Il laisse le libre arbitre, mais propose des pistes (voir doc)
+
+### Deadline:
+
+Fin mai mais page "coming soon" doit être lancée rapidement pour receuillir les adresses mails
+
+### Partenaire:
+
+La mutuelle du client (mutualité chrétienne)
+A mentionner quelque part sur la page d'accueil. 
+
+### Exigences:
+
++ Pas besoin de formulaire de contact
++ DOIT aboutir sur une application web ! 
++ Lancement rapide de coming soon 
++ Creation de cookie pour l'identifiant unique de l'enfant
 
 
 
