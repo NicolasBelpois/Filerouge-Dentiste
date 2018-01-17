@@ -15,8 +15,13 @@ Le site doit permettre a l'enfant de créer son compte avec une adresse mail val
 L'enfant doit pouvoir mémoriser son score maximal, partager son score avec ses amis et inviter ceux-ci à jouer avec lui.
 
 Le site reprendra une page avec les meilleurs scores récupérés dans une base de donnée.
+Lors du click sur la mascotte nous reviendrons toujours au jeu (cad page d'accueil)
+Le site proposera de télécharger un pdf représentant un diplôme avec le score de l'enfant (a créer, inspiration : https://i.pinimg.com/originals/9e/84/b7/9e84b7ae5a8a1c7343d258ba13437565.jpg)
 
+Le site aura une page pédagogie qui reprend les informations sur l'hygiène dentaire du <a href="https://github.com/Nicopaku/Filerouge-Dentiste/tree/master/OriginaleOnePage">onepage</a>
 Le site annoncera d'autres jeux à venir sur une autre page.
+Le site aura une page "about" qui reprend les données de contact ainsi que le partenaire.
+
 
 
 ### Notre client:
