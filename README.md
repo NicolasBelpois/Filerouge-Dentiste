@@ -9,7 +9,7 @@ Le site sera d'abord une page "coming soon" avant le lancement officiel du jeu, 
 ##### Ensuite
 
 Site multipage avec un jeu ludique pour la pédagogie dentaire. 
-(Jeu a créer soi-même ou récupérer d'autres sources (voir la doc))
+(Jeu a créer soi-même ou récupérer d'autres sources (voir la <a href="https://github.com/Nicopaku/Filerouge-Dentiste/blob/master/documentation.md">doc</a>))
 
 Le site doit permettre a l'enfant de créer son compte avec une adresse mail valide. 
 L'enfant doit pouvoir mémoriser son score maximal, partager son score avec ses amis et inviter ceux-ci à jouer avec lui.
@@ -35,14 +35,19 @@ Le site doit disposé d'une réglementation officielle vu qu'on utilise une adre
 + Sensibiliser sur l'hygiène dentaire de façon ludique
 + Fournir un compagnon aux enfants sur base de la mascotte Toothy
 
-### Langages:
+### Langages de programmation:
 
 Au choix .... 
 
+### Langue du site:
+
+Unilingue (Français)
+
 ### Charte graphique:
 
-Pas à disposition du client (voir doc)
-Il laisse le libre arbitre, mais propose des pistes (voir doc)
+Pas à disposition du client (voir <a href="https://github.com/Nicopaku/Filerouge-Dentiste/blob/master/documentation.md">doc</a>)
+
+Il laisse le libre arbitre, mais propose des pistes (voir <a href="https://github.com/Nicopaku/Filerouge-Dentiste/blob/master/documentation.md">doc</a>)
 
 ### Deadline:
 
