@@ -36,49 +36,53 @@
 
 
 
-##Question à poser :
+##Question & Réponses du client:
 
     But
 
 + Quel est le but premier de votre site ? Vitrine ? Commercial ?
-
-
-    A disposition
+Sensibiliser les enfants à l'hygiène dentaire.
       
 
 + Matériel existant ? Logo ? Texte ? Photos ?
 
+Un logo de la mascotte Toothy, le logo de mutualité chrétiennes.
+
 + Charte graphique ?
+Libre choix
 
 + Nom de domaine ? Hébergeur existant ?
+A créer
 
 
     Fonctionnalités 
     
 
-+ Langues voulues ? 
++ Langues voulues ? Français
 
-+ Est-ce que les clients doivent se connecter ? 
++ Est-ce que les clients doivent se connecter ? Non
 
-+ Faut-il un formulaire de contact ?
-
-
++ Faut-il un formulaire de contact ? Non
 
     Temps 
 
-+ Deadline ?
++ Deadline ? Mai 2018
 
 + Temps disponible pour le site après-coup ?
+Pas nécessaire
 
 
     Autres
 
 + Page de présentation temporaire ? 
+Oui pour récupérer un maximum d'information
 
 + Kit d’informations livrables ? 
-
+Non
 + Partenaires ?  Si oui, infos disponibles ? 
+Non
 
 + Désirez vous une application mobile? 
+Oui
 
 
