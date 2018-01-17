@@ -6,9 +6,10 @@ Site de réféfence du client : Toca Boca - https://tocaboca.com -
 
 Logo mutualité: PNG des Mutualités Chrétiennes - https://www.mc.be/binaries/Logo_MC_button_sans_slogan_PNG_tcm377-142467.png - 
 
-Logo de la masquotte Tooty
+Logo de la masquotte Toothy
 
-Typo : Josephin sans & Open sans
+Typo : Concert one et Roboto
+https://fonts.google.com/specimen/Concert+One
 
 Color: Vert Mutulatité - hex #5EB266  --> Voir sur adobe color la palette adéquate. 
 
