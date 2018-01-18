@@ -1,39 +1,54 @@
 
 MODELE DE CAHIER DES CHARGES DE SITE INTERNET
 
-1. Présentation d’ensemble du projet
-Présentation de l’entreprise :
-	•	Présenter l’activité de l’entreprise : date de création, services ou produits vendus, nombre de salariés, CA, principaux axes de développement, principaux concurrents,  … 
-	•	Expliquer le rôle de votre projet web dans la stratégie de l’entreprise
-	•	S’il s’agit d’une refonte d’un site internet existant, préciser : son trafic mensuel, quelques statistiques de performance (taux de rebond, taux de conversion, …), le nombre de pages existantes à récupérer, les technologies utilisées, …
-Les objectifs du site :
-Détaillez le ou les objectifs de votre site web. Préciser s’il s’agit :
-	•	D’un site e-commerce destiné à vendre des produits
-	•	D’un site vitrine pour présenter l’activité de votre entreprise 
-	•	D’un media en ligne
-	•	D’un support promotionnel par exemple pour le lancement d’un évènement
-	•	D’un logiciel en ligne
-La cible adressée par le site :
-	•	Ciblez-vous les entreprises ou les particuliers ?
-	•	Quelles sont les caractéristiques et les centres d’intérêt de votre cible ?
-	•	Identifiez les différents segments composant votre cible (par exemple PME et grandes entreprises) et hiérarchisez leur importance stratégique
-Objectifs quantitatifs :
+# 1. Présentation d’ensemble du projet
+
+## Présentation de l’entreprise :
+
+* Présenter l’activité de l’entreprise : date de création, services ou produits vendus, nombre de salariés, CA, principaux axes de développement, principaux concurrents,  … 
+
+	—>  La Mutualité chrétienne (MC) propose à ses membres des avantages et services basés sur la solidarité et se bat 		pour des soins de qualité accessibles à tous.
+
+* Expliquer le rôle de votre projet web dans la stratégie de l’entreprise  
+	—> Projet ayant pour but de sensibiliser les enfants de 7 à 12 ans à l’hygiène dentaire par une approche ludique (le 		jeu interactif)
+	•	
+## Les objectifs du site :
+
+### Détaillez le ou les objectifs de votre site web. Préciser s’il s’agit 
+
+* D’un support promotionnel par exemple pour le lancement d’un évènement
+* Nous sommes ici dans un projet de promotion à la santé. L’idée est de démystifier les rendez-vous chez le dentiste. De faire comprendre par le jeu que le dentiste est avant tout un allié pour une santé dentaire optimale. 
+
+### La cible adressée par le site :
+
+* Les enfants de 7 à 12 ans par le jeu / les ados avec la section ‘Dent de sagesse / appareil dentaire / carrie.
+* Quelles sont les caractéristiques et les centres d’intérêt de votre cible ? Large
+
+### Objectifs quantitatifs :
+
 Ce type d’information doit donner une idée du niveau d’activité sur votre futur site, ce qui peut impacter le choix de l’infrastructure technique.
-	•	Quel volume de trafic visez-vous sur votre site ?
-	•	Dans le cas d’un site e-commerce, quel est votre objectif en termes de volume de ventes ? 
-	•	Quel volume mensuel de prospects espérez-vous collecter par vos formulaires ?
-Périmètre du projet :
-	•	Votre site doit-il être multilingue ? 
-	•	Quelles langues sont concernées ?
-	•	Pour chaque langue le site doit-il subir des adaptations autres que la traduction du contenu ?
-	•	Souhaitez-vous que votre site soit adapté pour les supports mobiles ? 
-Description de l’existant :
-	•	Y a-t-il une déjà une précédente version du site en ligne ?
-	•	Possédez-vous le nom de domaine que vous souhaitez utiliser ?
-	•	Quand est-il de l’hébergement ?
-	•	Y a-t-il des documents de présentation de l’entreprise ou de ses produits disponibles ? 
-	•	Quelles sont les ressources disponibles (logos, éléments graphiques, textes, …) ?
-	•	Y a-t-il des ressources humaines internes ou externes déjà allouées au projet (chef de projet, webdesigner, webmaster, …) ?
+
+* Quel volume de trafic visez-vous sur votre site ? Le plus possible mais le jeu est au centre et doit toucher le plus d’enfant / ado possible.  
+
+* Le site est avant tout un outil de sensibilisation, nous sommes pas dans une démarche commerciale. Les adresses mails ne seront collectées uniquement pour prévenir du lancement du jeu ou de la sorite d’un nouveau jeu. 
+
+### Périmètre du projet :
+* Votre site doit-il être multilingue ?  Non
+* Souhaitez-vous que votre site soit adapté pour les supports mobiles ? Oui
+
+### Description de l’existant :
+
+* Y a-t-il une déjà une précédente version du site en ligne ? Oui, un one pager (cfr doc)
+
+* Possédez-vous le nom de domaine que vous souhaitez utiliser ? Non
+
+* Quand est-il de l’hébergement ? Non
+
+* Y a-t-il des documents de présentation de l’entreprise ou de ses produits disponibles ?  Oui, je vous invite à consulter la document attachée au dossier. 
+
+* Quelles sont les ressources disponibles (logos, éléments graphiques, textes, …) ? Cfr doc
+
+* Y a-t-il des ressources humaines internes ou externes déjà allouées au projet (chef de projet, webdesigner, webmaster, …) ? Non
 
 2. Description graphique et ergonomique
 	•	
