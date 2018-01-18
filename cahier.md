@@ -50,7 +50,7 @@ Ce type d’information doit donner une idée du niveau d’activité sur votre 
 
 * Y a-t-il des ressources humaines internes ou externes déjà allouées au projet (chef de projet, webdesigner, webmaster, …) ? Non
 
-# Description graphique et ergonomique.
+# 2. Description graphique et ergonomique.
 
 ## Charte graphique :
 
@@ -72,56 +72,135 @@ Pas d'exigences particulières au niveau du design.(Voir charte graphique).
 ## Maquette :
 Pas de maquette imposée, ce referer au shemas ULM présent dans la documentation.
 
-3. Description fonctionnelle et technique
-Si vous disposez de spécifications fonctionnelles détaillées ou de tout autre document utile n’hésitez pas à les ajouter en annexe de votre cahier des charges.
-	•
-Arborescence du site :
-Présenter l’arborescence de votre site sous la forme d’un schéma est souvent une bonne idée !
-	•	Quelle sont les grandes sections de votre site ?
-	•	Comment sont organisées les différentes rubriques ?
-	•	Quelles sont les pages principales ?
-Description fonctionnelle :
-	•	Votre site comprend-t-il une boutique en ligne ? Si oui, essayer de préciser les modes de livraison et de paiement envisagés, la présence de fonctionnalités de cross-selling, …
-	•	Doit-il y avoir un espace client sécurisé par mot de passe ?
-	•	Souhaitez-vous un back office de suivi d’activité ? Précisez les besoins en termes de droits d’administration, illustrez vos processus métiers par des schémas
-	•	Votre site doit-il intégrer un moteur de recherche interne ? Un blog ? Un module d’inscription newsletter ?
-	•	 …
-Informations relatives aux contenus :
-	•	Quels ont les différents types de contenus que vous comptez présenter sur votre site : articles, images, vidéos, ressources téléchargeables, … ?
-	•	Précisez vos besoins en termes de modification des contenus et création de pages
-	•	Indiquez que vous souhaitez que la code HTML respecte les standards SEO notamment en matière de balises titres et de meta-informations ?
-Contraintes techniques :
-	•	Quelles sont les éventuelles technologies imposées ou privilégiées : langages, frameworks, CMS, ... ?
-	•	Avec quels navigateurs votre site doit-il être compatible ?
-	•	Souhaitez-vous que le prestataire prenne en charge l’hébergement ?
-	•	Quelles sont les intégrations à des systèmes tiers à prévoir : réseaux sociaux, comptabilité, facturation, emailing, marketing automation, CRM, webanalyse, … ?
+# 3.Description fonctionnelle et technique:
 
-4. Prestations attendues et modalités de sélection des prestataires
-	•
-Prestations attendues :
-Précisez ici la liste de toutes les prestations que vous souhaitez sous-traiter à votre futur prestataire et pour lesquelles vous souhaitez que les candidats vous soumettent de devis :
-	•	Développement
-	•	Design
-	•	Intégration
-	•	Migration de base de données ou autres actifs existants
-	•	Achat du nom de domaine et gestion de l’hébergement
-	•	Maintenance et mises à jours
-	•	Formation à la gestion du site
-	•	Accompagnement marketing : plan marketing, SEO, SEA, webanalyse, …)
-	•	…
-Planning :
-	•	Quelle est la date limite soumission de candidature pour les prestataires ?
-	•	Quelles sont les dates prévues pour d’éventuelles soutenances orales ?
-	•	A quelle date sera sélectionné le prestataire ?
-	•	Quelles ont les principales deadlines intermédiaires du projet selon les différents lots envisagés ?
-	•	A quelle date souhaitez-vous la livraison finale du projet ?
-Méthodologie de suivi :
-	•	Souhaitez-vous que le prestataire recourt à une méthodologie de développement agile ?
-	•	Comment voulez-vous organiser le suivi du projet : échanges téléphoniques hebdomadaires, présentation physique régulière des avancées, … ?
-	•	Souhaitez-vous avoir accès à un environnement de pré production ?
-
-Modalités de sélection du prestataire :
-	•	Quels éléments souhaitez-vous que le prestataire intègre à sa réponse : présentation de la société avec références, préconisations techniques, difficultés identifiées, méthodologie proposée, présentation de l’équipe projet, devis détaillé, … ?
-	•	Avez-vous établi une grille de critères pour évaluer les réponses des prestataires ?
-	•	Indiquez le ou les contacts en cas de question sur le cahier des charges ainsi que la date limite de réponse
-	•	Si vous disposez d’une estimation de budget pour votre projet vous pouvez également le mentionner
+## Arborescence du site: (voir schéma UML)
+
+## Grandes sections du site:
+
++ Accueil
+
++ Pédagogie
+
++ A venir
+
++ A propos
+
+## Organisation des différentes rubriques:
+
++ Sur la page "Accueil" nous retrouverons le jeu, le formulaire d'inscription/connexion ainsi que la possibilité de télécharger le certificat de réussite et afficher la liste des scores
+
++ Sur la page "Pédagogie" nous aurons des informations destinées aux parents et professeurs concernant l'assembage du jeu et de l'hygiène dentaire
+
++ Sur la page "A venir" nous retrouverons l'annonce des prochains jeux installés sur le site
+
++ Sur la page "A propos", nous retrouverons bien entendu les infos de contacts, mais également celles du partenaire et les chartes législatives
+
+## Page principale:
+
++ Accueil
+
+## Espace membre sécurisé:
+
++ L'enfant doit pouvoir s'enregistrer (prénom, mail, date de naissance, mot de passe, génération d'un identifiant unique dans la BD)
+
++ L'enfant doit pouvoir se connecter
+
++ L'enfant doit pouvoir récupérer ses scores
+
++ L'enfant doit pouvoir télécharger son certificat de réussite avec son meilleur score
+
++ L'enfant doit pouvoir partager son score avec ses amis
+
++ L'enfant doit pouvoir inviter ses amis
+
+## Besoins législatif:
+
++ Vu que le site est destiné aux enfants, nous devons y retrouver les chartes législative concernant leurs droits
+
++ Pour les partages, il faut prendre en compte l'âge des enfants qui n'ont logiquement pas accès aux réseaux sociaux
+
++ Pour les adresses mails, préciser que l'adresse mail des parents est conseillée, les enfants en bas âge n'en ont pas
+
++ Pour la récupération des adresses mails, préciser que le seul mail qui recevront de notre part concerne un eventuel changement de mot de passe
+
++ Lors de l'inscription proposer de lire les chartes législative
+
+## Différents types de contenus:
+
++ Le(s) jeu(x)
+
++ Les informations relatives à l'éducation de l'hygiène dentaire sous formes d'articles et/ou vidéos
+
++ Chartes législatives téléchargeable
+
++ Certificat de réussite téléchargeable
+
+## Modification du contenu:
+
++ Le client ne modifiera pas lui même le contenu mais pourra demander des mises à jour ou ajout sur le site
+
++ Pour le moment pas d'ajout de page supplémentaire
+
+## Normes et standardisation
+
++ Le langage utilisé pour la conception du site n'est pas imposé
+
++ Le site doit aboutir en application web
+
++ Le site doit être responsive
+
++ Le site doit être en lien avec une base de donnée
+
++ Le site doit être compatible sur tous les navigateurs récents
+
+## Hébergement & nom de domaine
+
++ Le client n'a pas d'hebergeur propre
+
++ Le client n'a pas encore de nom de domaine
+
+## Intégrations futures:
+
++ D'autres jeux
+
+
+# 4.Prestations attendues et modalités de séléction des prestataires:
+
+## Prestations attendues:
+
++ Développement
++ Design
++ Intégration
++ Création de base de données
++ Récupération des données existantes sur le site précédent
++ Achat du nom de domaine et gestion de l'hébergement
++ Maintenances et mises à jours
++ Accompagnement marketing
+
+## Planning:
+
++ Date limite de soumission de candidature pour les prestataires : 18/01/2018
+
++ Date d'entrevues pour les entretiens du site : A prévoir
+
++  Date de selection du prestataire : 19/01/2018
+
++ Principale Deadline:
+
+*       Onepage ComingSoon: 01/02/2018
+*       Site complet: 15/04/2018
+
++ Livraison complète:
+
+* 20/04/2018
+
+## Méthodologie du suivie :
+
++ Au choix
+
++ Tout contact se fera sous rendez-vous avec le client
+
+## Budget:
+
+### 100.000€
