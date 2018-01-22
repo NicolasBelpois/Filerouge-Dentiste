@@ -28,7 +28,7 @@ Le site aura une page "about" qui reprend les données de contact ainsi que le p
 
 ### Notre client:
 
-Chargé de communication au sein d'une mutuelle. 
+Groupe 8 : Nico B - Delphine - Syl
 
 Le client ne fera pas de mise à jour du site lui-même après conception.
 
